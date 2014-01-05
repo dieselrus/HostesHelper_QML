@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="247px" height="166px" viewBox="0 0 247 166" enable-background="new 0 0 247 166" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="185.3184" y1="102.7813" x2="185.3184" y2="135.0762" gradientTransform="matrix(1 0 0 -1 -0.02 165.0947)">
+	<stop  offset="0" style="stop-color:#ED1C24"/>
+	<stop  offset="1" style="stop-color:#A71C20"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M185.139,44.265c3.937,0,7.127-3.205,7.127-7.123c0-3.935-3.19-7.124-7.127-7.124
+	c-3.92,0-7.109,3.189-7.109,7.124C178.029,41.06,181.219,44.265,185.139,44.265z M190.09,46.423l-4.84,7.488l-4.586-7.647
+	c-4.477,1.777-8.047,6.314-7.967,13.597c8.919,3.38,17.281,3.157,25.201,0C197.835,52.784,194.407,48.311,190.09,46.423z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="220.4551" y1="102.7754" x2="220.4551" y2="135.6152" gradientTransform="matrix(1 0 0 -1 -0.02 165.0947)">
+	<stop  offset="0" style="stop-color:#ED1C24"/>
+	<stop  offset="1" style="stop-color:#A71C20"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M210.754,37.633c0-4.918,3.84-8.154,9.68-8.154s9.617,3.173,9.617,7.964
+	c0,3.57-1.873,5.981-5.142,7.028c3.968,0.873,6.476,3.792,6.476,7.98c0,6.124-4.189,9.868-10.998,9.868
+	c-6.666,0-10.902-3.744-10.902-9.582c0-4.284,2.381-7.299,6.476-8.267C212.674,43.566,210.754,41.06,210.754,37.633z
+	 M212.404,52.642c0,4.379,3.142,7.251,8.029,7.251c4.823,0,7.981-2.824,7.981-7.251c0-4.188-3.158-6.933-8.077-6.933
+	C215.546,45.709,212.404,48.485,212.404,52.642z M213.578,37.76c0,3.475,2.697,5.664,6.855,5.664c4.188,0,6.793-2.189,6.793-5.695
+	c0-3.554-2.556-5.712-6.793-5.712C216.244,32.017,213.578,34.206,213.578,37.76z"/>
+</svg>
